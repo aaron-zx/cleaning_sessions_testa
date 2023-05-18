@@ -1,6 +1,7 @@
 # Roomba Navigation Test Suite
 
 This is a test suite for the Roomba navigation service. It includes API tests to validate the functionality of the service, including grid creation, navigation instructions, and cleaning operations.
+PDF Document SDET Assignment - Aarón Patricio contains the API Testing Approach, Test Structure explanation, assumptions for the requirements and the bugs report itself. 
 
 ## Requirements
 
